@@ -83,21 +83,3 @@ Problem
 ```
 
 I'm particularly interested in comparing solution quality, computational performance, and scalability across different optimization approaches.
-
----
-
-## Currently
-
-8th Semester — Software Engineering
-
-Currently strengthening my knowledge in:
-
-- Optimization algorithms
-- Heuristics & metaheuristics
-- Mathematical programming
-- Algorithm analysis
-- Software engineering
-- Web application development
-
-I'm interested in opportunities where I can apply optimization, algorithms, and software development to solve real-world problems.
-
